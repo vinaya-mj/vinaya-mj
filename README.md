@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 ## About Me<br><br>
 I am a passionate developer with a strong interest in Artificial Intelligence, Machine Learning, and Full-Stack Web Development. I enjoy building modern applications that solve real-world problems while continuously improving my technical expertise. My current focus is on developing AI-powered solutions, scalable web applications, and exploring innovative technologies that have the potential to create meaningful impact.
 I actively seek opportunities to collaborate on open-source projects, contribute to the developer community, and work on challenging applications in the fields of AI and software engineering. At present, I am expanding my knowledge in Deep Learning, Generative AI, System Design, and MLOps to gain a deeper understanding of designing and deploying intelligent systems at scale.

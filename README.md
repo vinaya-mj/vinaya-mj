@@ -69,15 +69,18 @@ With experience in Java, Python, Web Development, Git, GitHub, and AI/ML concept
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinaya-mj&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=vinaya-mj&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" /> -->
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vinaya-mj&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook" />
-</p>
-
 ---
 
+---
+## 🎯 Goals for 2026–2027
 
+* 📚 Master Data Structures and Algorithms (DSA)
+* 🤖 Build AI and Full-Stack projects
+* ☁️ Learn Cloud and Deployment technologies
+* 🌍 Contribute to Open Source projects
+* 💼 Secure a Software Engineering Internship
+* 🚀 Continuously improve my development skills
+---
 
 
 ## 🌐 Connect With Me

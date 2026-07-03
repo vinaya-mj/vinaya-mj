@@ -2,7 +2,7 @@
 
 # Hi, I'm Vinaya M J
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=Web+Developer;AI+ML+Enthusiast;Problem+Solver;Open+Source+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=Web+Developer;AI+and+ML+Enthusiast;Problem+Solver;Open+Source+Enthusiast" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vinaya-mj&label=Profile%20views&color=0891b2&style=flat" alt="Profile views" />

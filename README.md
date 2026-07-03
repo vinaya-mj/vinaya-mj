@@ -17,13 +17,13 @@
 
 ## 🚀 About Me
 
-```javascript
+
 I am a passionate developer with a strong interest in Artificial Intelligence, Machine Learning, and Full-Stack Web Development. I enjoy building modern applications that solve real-world problems while continuously improving my technical expertise. My current focus is on developing AI-powered solutions, scalable web applications, and exploring innovative technologies that have the potential to create meaningful impact.
 
 I actively seek opportunities to collaborate on open-source projects, contribute to the developer community, and work on challenging applications in the fields of AI and software engineering. At present, I am expanding my knowledge in Deep Learning, Generative AI, System Design, and MLOps to gain a deeper understanding of designing and deploying intelligent systems at scale.
 
 With experience in Java, Python, Web Development, Git, GitHub, and AI/ML concepts, I am committed to continuous learning and staying updated with emerging technologies. I believe in transforming ideas into practical solutions, embracing challenges, and building projects that combine creativity, innovation, and technology to deliver real value.
-```
+
 
 
 ## 🛠️ Tech Stack
@@ -78,24 +78,19 @@ With experience in Java, Python, Web Development, Git, GitHub, and AI/ML concept
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://github.com/Santhosh-Kumar-R-S">
+  <a href="https://github.com/vinaya-mj">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/santhosh-kumar-r-s">
+  <a href="https://www.linkedin.com/in/vinaya-mj-6156082a3">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/santhosh_kumar_r_s">
+  <a href="https://www.instagram.com/royal_vinay_8?igsh=em1xYm10c2d6N2x2">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://www.x.com/Santhosh_1817">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:snthshkumarrs@gmail.com">
+  <a href="mailto:vinaymj64@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://santhoshkumarrs.vercel.app">
-    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-  </a>
+ 
 </div>
 
 ---

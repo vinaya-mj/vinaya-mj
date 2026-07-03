@@ -2,7 +2,7 @@
 
 # Hi, I'm Vinaya M J
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=Web+Developer;Data+Analyst;Problem+Solver;Open+Source+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=Web+Developer;AI+ML+Enthusiast;Problem+Solver;Open+Source+Enthusiast" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vinaya-mj&label=Profile%20views&color=0891b2&style=flat" alt="Profile views" />
@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 
 I am a passionate developer with a strong interest in Artificial Intelligence, Machine Learning, and Full-Stack Web Development. I enjoy building modern applications that solve real-world problems while continuously improving my technical expertise. My current focus is on developing AI-powered solutions, scalable web applications, and exploring innovative technologies that have the potential to create meaningful impact.
@@ -61,19 +61,24 @@ With experience in Java, Python, Web Development, Git, GitHub, and AI/ML concept
 ---
 
 
+---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinaya-mj&theme=tokyonight&hide_border=true" />
+</p>
 
-![Profile Details](profile-summary-card-output/github_dark/0-profile-details.svg)
-![Languages](profile-summary-card-output/github_dark/1-repos-per-language.svg)
-![Most Used Language](profile-summary-card-output/github_dark/2-most-commit-language.svg)
-![Productive Time](profile-summary-card-output/github_dark/4-productive-time.svg)
-
-</div>
+<p align="center">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=vinaya-mj&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" /> -->
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vinaya-mj&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook" />
+</p>
 
 ---
+
+
+
 
 ## 🌐 Connect With Me
 

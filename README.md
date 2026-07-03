@@ -83,7 +83,7 @@ With experience in Java, Python, Web Development, Git, GitHub, and AI/ML concept
 ---
 
 
-## 🌐 Connect With Me
+## 🌐 Contact With Me
 
 <div align="center">
   <a href="https://github.com/vinaya-mj">

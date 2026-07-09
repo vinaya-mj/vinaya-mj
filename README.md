@@ -66,7 +66,7 @@ With experience in Java, Python, Web Development, Git, GitHub, and AI/ML concept
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vinaya-mj&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinaya-mj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 ---
 

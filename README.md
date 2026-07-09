@@ -67,12 +67,7 @@ With experience in Java, Python, Web Development, Git, GitHub, and AI/ML concept
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinaya-mj&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=vinaya-mj&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinaya-mj&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vinaya-mj&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 ---
 
